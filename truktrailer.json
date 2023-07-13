@@ -68,32 +68,32 @@
   "categories": [
     {
       "id": 1,
-      "name": "Mod SR3 Single Glass",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png"
+      "name": "Truk Trailer Muatan Alat Berat",
+      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodtrucktrailermuatan.alatberatmajujalanbussid/main/trailer%20fitur.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Mod SR3 Single Glass",
-      "title": "MOD SR3 Single Glass Scania K360iB by Thien",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
+      "category": "Truk Trailer Muatan Alat Berat",
+      "title": "Kumpulan Truk Trailer Muatan Alat Berat",
+      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodtrucktrailermuatan.alatberatmajujalanbussid/main/trailer%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass1.html",
       "video": ""
     },
 {
       "id": 2,
-      "category": "Mod SR3 Single Glass",
+      "category": "Truk Trailer Muatan Alat Berat",
       "title": "MOD SR3 Single Glass Panorama v2 by Thien",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
+      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodtrucktrailermuatan.alatberatmajujalanbussid/main/trailer%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass2.html",
       "video": ""
     },
 {
       "id": 3,
-      "category": "Mod SR3 Single Glass",
+      "category": "Truk Trailer Muatan Alat Berat",
       "title": "Livery Pack v2 SR3 Single Glass Scania K360iB Thien",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
+      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodtrucktrailermuatan.alatberatmajujalanbussid/main/trailer%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass3.html",
       "video": ""
     }  
